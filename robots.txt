@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://iblkraszewski/silvilaser-2027/sitemap.xml
