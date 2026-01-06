@@ -1,35 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://iblkraszewski/silvilaser-2027/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://iblkraszewski.github.io/silvilaser-2027/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>https://iblkraszewski/silvilaser-2027/</loc>
+<loc>https://iblkraszewski.github.io/silvilaser-2027/</loc>
 </url>
 <url>
-<loc>https://iblkraszewski/silvilaser-2027/about-2.html</loc>
+<loc>https://iblkraszewski.github.io/silvilaser-2027/about-2.html</loc>
 <lastmod>2026-01-05T23:03:01+01:00</lastmod>
 </url>
 <url>
-<loc>https://iblkraszewski/silvilaser-2027/contact-us.html</loc>
+<loc>https://iblkraszewski.github.io/silvilaser-2027/contact-us.html</loc>
 <lastmod>2026-01-06T00:31:03+01:00</lastmod>
 </url>
 <url>
-<loc>https://iblkraszewski/silvilaser-2027/program.html</loc>
+<loc>https://iblkraszewski.github.io/silvilaser-2027/program.html</loc>
 <lastmod>2026-01-06T00:09:18+01:00</lastmod>
 </url>
 <url>
-<loc>https://iblkraszewski/silvilaser-2027/registration.html</loc>
+<loc>https://iblkraszewski.github.io/silvilaser-2027/registration.html</loc>
 <lastmod>2026-01-05T22:38:37+01:00</lastmod>
 </url>
 <url>
-<loc>https://iblkraszewski/silvilaser-2027/speakers.html</loc>
+<loc>https://iblkraszewski.github.io/silvilaser-2027/speakers.html</loc>
 <lastmod>2026-01-05T22:26:44+01:00</lastmod>
 </url>
 <url>
-<loc>https://iblkraszewski/silvilaser-2027/sponsors.html</loc>
+<loc>https://iblkraszewski.github.io/silvilaser-2027/sponsors.html</loc>
 <lastmod>2026-01-06T00:26:37+01:00</lastmod>
 </url>
 <url>
-<loc>https://iblkraszewski/silvilaser-2027/venue-2.html</loc>
+<loc>https://iblkraszewski.github.io/silvilaser-2027/venue-2.html</loc>
 <lastmod>2026-01-06T00:18:13+01:00</lastmod>
 </url>
 </urlset>
